@@ -1,6 +1,6 @@
 ### Olá! Eu sou Carlos Gabriel.🌟
 
-- 🌱 Atualmente estou aprendendo Python
+- 🌱 Atualmente estou aprendendo Node
 - 📫 Como entrar em contato? carlosgabrielp77@gmail.com
 - 😄 Pronomes: Ele/dele
 
