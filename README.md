@@ -1,6 +1,6 @@
 ### Olá! Eu sou Carlos Gabriel.🌟
 
-- 🌱 Atualmente estou aprendendo Node
+- 🌱 Atualmente estou aprendendo TypeScript
 - 📫 Como entrar em contato? carlosgabrielp77@gmail.com
 - 😄 Pronomes: Ele/dele
 
@@ -28,6 +28,8 @@
 
 <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 
+<img align="center" alt="NODE.JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg">
 
+<img align="center" alt="TYPESCRIPT" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg">
 
 </div>
