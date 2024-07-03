@@ -2,7 +2,6 @@
 
 - 🌱 Atualmente estou aprendendo TypeScript
 - 📫 Como entrar em contato? carlosgabrielp77@gmail.com
-- 😄 Pronomes: Ele/dele
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pde_sousa)
 
